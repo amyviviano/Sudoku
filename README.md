@@ -7,6 +7,7 @@ A Sudoku puzzle consists of 81 small squares arranged in 9 rows by 9 columns. Th
 into 3-by-3 blocks (see Output Data for example). A puzzle starts with a number of the squares filled in with numbers 
 from 1 through 9. The puzzle is solved by filling in the rest of the squares with numbers from 1 through 9 according to 
 the following rules:
+
 No row has the same number twice.
 No column has the same number twice.
 No 3-by-3 block in the puzzle has the same number twice.
